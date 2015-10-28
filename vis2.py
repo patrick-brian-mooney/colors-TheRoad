@@ -22,7 +22,6 @@ import turtle
 from pprint import pprint
 import sys
 import csv
-import collections
 
 data_file_name = 'data.csv'
 stroke_width = 3    # How many pixels wide is the line representing a single color mention?
